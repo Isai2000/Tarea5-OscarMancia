@@ -1,0 +1,15 @@
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\bin\Debug\Tarea5-OscarMancia.exe.config
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\bin\Debug\Tarea5-OscarMancia.exe
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\bin\Debug\Tarea5-OscarMancia.pdb
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5-OscarMancia.csprojAssemblyReference.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Formularios.FrmMenuPrincipal.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Formularios.FrmPorcentaje.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Properties.Resources.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5-OscarMancia.csproj.GenerateResource.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5-OscarMancia.csproj.CoreCompileInputs.cache
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5-OscarMancia.exe
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5-OscarMancia.pdb
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Formularios.FrmLitrosdeAgua.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Formularios.FrmCalcular.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Formularios.FrmNotaAlumno.resources
+C:\Users\Isai Mancia\Documents\PVA\3er-Periodo\Porgramacion III\Tarea5-OscarMancia\obj\Debug\Tarea5_OscarMancia.Formularios.FrmFactura.resources
